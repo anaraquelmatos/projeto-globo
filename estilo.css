@@ -1,0 +1,723 @@
+body {
+  height: 1080px;
+  width: 1600px;
+  left: -280px;
+  top: -453px;
+  border-radius: 0px;
+  background-color: #ffffff;
+}
+a {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(45, 180, 224);
+  text-decoration: 4px underline;
+}
+a:active {
+  text-decoration: none;
+}
+.totalIcones a:hover {
+  border-bottom: 4px solid rgb(45, 180, 224);
+  text-decoration: underline;
+}
+.containerTop {
+  width: 100%;
+  height: 126px;
+  /*background-color: blue;*/
+  border-bottom: 1px solid #e5e5e5;
+}
+.barraTopo {
+  /*background-color: pink;*/
+  height: 80px;
+  width: 100%;
+  border-bottom: 1px solid #e5e5e5;
+}
+.barraTopo img {
+  position: absolute;
+  width: 171px;
+  height: 36px;
+  left: 715px;
+  top: 22px;
+}
+.totalIcones {
+  margin-left: 151px;
+  width: 1250px;
+  height: 45px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /*background-color: red;*/
+}
+.totalIcones h3 {
+  font-family: Encode Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 19px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.02em;
+}
+.g1 {
+  color: #c3170c;
+}
+.oglobo {
+  color: #1e4b9b;
+}
+.valor {
+  color: #006766;
+}
+.ge {
+  color: #07aa47;
+}
+.cartola {
+  color: #e3662b;
+}
+.globoplay {
+  color: #fb0735;
+}
+.dropz {
+  color: #ff75bb;
+}
+.gshow {
+  color: #ec7d00;
+}
+.quem {
+  color: #323333;
+}
+.receitas {
+  color: #a81d83;
+}
+.container {
+  /*background-color: limegreen;*/
+  border-right: 1px solid #ebedef;
+  width: 680px;
+  height: 850px;
+}
+.containerCorpoParte1 {
+  /*background-color: orange;*/
+  width: 624px;
+  height: 312px;
+  border-bottom: 1px solid #ebedef;
+}
+.containerCorpoParte1 h1 {
+  height: 201px;
+  width: 624px;
+  left: 151px;
+  top: 160px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 67px;
+  letter-spacing: -0.01em;
+  color: #c4160c;
+}
+.h2Parte1 {
+  margin-top: 29px;
+  height: 25px;
+  width: 622px;
+  left: 153px;
+  top: 390px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: -0.01em;
+  color: #303134;
+}
+.h2Parte2 {
+  margin-top: 7px;
+  height: 25px;
+  width: 622px;
+  left: 153px;
+  top: 390px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: -0.01em;
+  color: #303134;
+}
+.containerCorpoParte2 {
+  /*background-color: purple;*/
+  width: 624px;
+  height: 316px;
+  margin-top: 25px;
+  border-bottom: 1px solid #ebedef;
+}
+.containerCorpoParte2 div {
+  display: inline-block;
+  vertical-align: middle;
+}
+.containerCorpoParte2_1 {
+  /*background-color: black;*/
+  margin-left: 0;
+  width: 193px;
+  height: 155px;
+  margin-top: 11px;
+}
+.containerCorpoParte2_2 {
+  /*background-color: gray;*/
+  width: 193px;
+  height: 154px;
+  margin-top: 13px;
+  margin-left: 19px;
+}
+.containerCorpoParte2_3 {
+  /*background-color: darkgreen;*/
+  width: 193px;
+  height: 155px;
+  margin-top: -172px;
+  margin-left: 431px;
+}
+.containerCorpoParte2_Foto1 {
+  height: 110px;
+  width: 193px;
+  left: 154px;
+  top: 498px;
+  border-radius: 12px;
+}
+.containerCorpoParte2_Foto2 {
+  margin-left: 18.5px;
+  height: 110px;
+  width: 193px;
+  left: 371px;
+  top: 498px;
+  border-radius: 12px;
+}
+.containerCorpoParte2_Foto3 {
+  margin-left: 18.5px;
+  height: 110px;
+  width: 193px;
+  left: 588px;
+  top: 498px;
+  border-radius: 12px;
+}
+.containerCorpoParte2_legenda1Parte1 {
+  height: 19px;
+  width: 192px;
+  left: 154px;
+  top: 619px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  margin-bottom: 6px;
+  color: #c4160c;
+}
+.containerCorpoParte2_legenda1Parte2 {
+  height: 84px;
+  width: 192px;
+  left: 154px;
+  top: 644px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: -0.045em;
+  text-align: left;
+  margin-bottom: 4.5px;
+  color: #2f3134;
+}
+.containerCorpoParte2_legenda1Parte3 {
+  height: 42.5px;
+  width: 174px;
+  left: 154px;
+  top: 732.5px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: -0.048em;
+  text-align: left;
+  color: #2f3134;
+}
+.containerCorpoParte2_legenda2Parte1 {
+  height: 19px;
+  width: 192px;
+  left: 371px;
+  top: 619px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  margin-bottom: 6px;
+  color: #c4160c;
+}
+.containerCorpoParte2_legenda2Parte2 {
+  height: 84px;
+  width: 192px;
+  left: 371px;
+  top: 644px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: -0.045em;
+  text-align: left;
+  margin-bottom: 4.5px;
+  color: #2f3134;
+}
+.containerCorpoParte2_legenda2Parte3 {
+  height: 42.5px;
+  width: 174px;
+  left: 371px;
+  top: 732.5px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: -0.048em;
+  text-align: left;
+  color: #2f3134;
+}
+.containerCorpoParte2_legenda3Parte1 {
+  height: 19px;
+  width: 192px;
+  left: 588px;
+  top: 619px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  margin-bottom: 6px;
+  color: #c4160c;
+}
+.containerCorpoParte2_legenda3Parte2 {
+  height: 84px;
+  width: 192px;
+  left: 588px;
+  top: 644px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: -0.045em;
+  text-align: left;
+  margin-bottom: 4.5px;
+  color: #2f3134;
+}
+.containerCorpoParte2_legenda3Parte3 {
+  height: 42.5px;
+  width: 174px;
+  left: 588px;
+  top: 732.5px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: -0.048em;
+  text-align: left;
+  color: #2f3134;
+}
+.containerCorpoParte3 {
+  /*background-color: yellow;*/
+  width: 624px;
+  height: 232px;
+  margin-top: 25px;
+}
+.containerCorpoParte3 div {
+  display: inline-block;
+  vertical-align: middle;
+}
+.containerCorpoParte3_1 {
+  /*background-color: blueviolet;*/
+  margin-left: 0;
+  width: 193px;
+  height: 145px;
+  margin-top: -1px;
+}
+.containerCorpoParte3_2 {
+  /*background-color: lightblue;*/
+  margin-left: 19px;
+  width: 193px;
+  height: 145px;
+  margin-top: 0;
+}
+.containerCorpoParte3_3 {
+  /*background-color: lightpink;*/
+  margin-left: 431px;
+  width: 193px;
+  height: 145px;
+  margin-top: -164px;
+}
+.containerCorpoParte3_legenda1Parte1 {
+  height: 19px;
+  width: 192px;
+  left: 155px;
+  top: 837px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  color: #c4160c;
+  text-align: left;
+}
+.containerCorpoParte3_legenda1Parte2 {
+  height: 84px;
+  width: 192px;
+  left: 155px;
+  top: 862px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: -0.045em;
+  color: #2f3134;
+  text-align: left;
+}
+.containerCorpoParte3_legenda1Parte3 {
+  height: 42.5px;
+  width: 174px;
+  left: 155px;
+  top: 950.5px;
+  border-radius: nullpx;
+  color: #2f3134;
+  font-family: Encode Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: -0.048em;
+  text-align: left;
+  /*border-bottom: 87px solid black;*/
+}
+.totalCorpo {
+  /*background-color: brown;*/
+  margin-top: 34px;
+  margin-left: 154px;
+  width: 1250px;
+}
+.totalCorpo div {
+  display: inline-block;
+  vertical-align: middle;
+}
+.container2 {
+  /*background-color: coral;*/
+  margin-left: 715px;
+  margin-top: -850px;
+  width: 540px;
+  height: 928px;
+}
+.container2_direita {
+  /*background-color: blue;*/
+  border-right: 1px solid #ebedef;
+  margin-left: 0;
+  margin-top: 0;
+  width: 275px;
+  height: 345px;
+}
+.container2CorpoParte1_Foto1 {
+  height: 128px;
+  width: 240px;
+  left: 853px;
+  top: 162px;
+  border-radius: 12px;
+}
+.container2CorpoParte4_legenda1Parte1 {
+  height: 19px;
+  width: 240px;
+  left: 853px;
+  top: 301px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #16ae54;
+  margin-top: 11px;
+}
+.container2CorpoParte4_legenda1Parte2 {
+  height: 84px;
+  width: 240px;
+  left: 853px;
+  top: 326px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: -0.045em;
+  text-align: left;
+  color: #2f3134;
+  margin-top: 6px;
+}
+.container2CorpoParte4_legenda1Parte3 {
+  height: 43px;
+  width: 217px;
+  left: 853px;
+  top: 414px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: -0.048em;
+  text-align: left;
+  color: #2f3134;
+  margin-top: 4px;
+}
+.container3_direita {
+  /*background-color: red;*/
+  border-right: 1px solid #ebedef;
+  margin-left: 0;
+  margin-top: 0;
+  width: 275px;
+  height: 292px;
+}
+.container2CorpoParte5_Foto2 {
+  height: 128px;
+  width: 240px;
+  left: 853px;
+  top: 507px;
+  border-radius: 12px;
+}
+.container4_direita {
+  /*background-color: rgb(189, 119, 119);*/
+  border-right: 1px solid #ebedef;
+  margin-left: 0;
+  margin-top: 0;
+  width: 275px;
+  height: 213px;
+}
+.container2CorpoParte5_Foto3 {
+  height: 128px;
+  width: 240px;
+  left: 853px;
+  top: 797px;
+  border-radius: 12px;
+}
+.container5_direita {
+  /*background-color: rgb(187, 255, 0);*/
+  margin-left: 305px;
+  margin-top: -1425px;
+  width: 240px;
+  height: 292px;
+}
+.container2CorpoParte6_Foto4 {
+  height: 128px;
+  width: 240px;
+  left: 1165px;
+  top: 162px;
+  border-radius: 12px;
+}
+.container2CorpoParte6_legenda2Parte1 {
+  height: 19px;
+  width: 240px;
+  left: 1165px;
+  top: 301px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #ec8006;
+  margin-top: 11px;
+}
+.container2CorpoParte6_legenda2Parte2 {
+  height: 84px;
+  width: 240px;
+  left: 1165px;
+  top: 326px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: -0.045em;
+  text-align: left;
+  color: #2f3134;
+  margin-top: 6px;
+  margin-bottom: 23px;
+}
+.container6_direita {
+  /*background-color: gray;*/
+  margin-top: -910px;
+  height: 292px;
+  margin-left: 305px;
+  width: 240px;
+  height: 292px;
+}
+.container6_direita img {
+  height: 128px;
+  width: 240px;
+  left: 1165px;
+  top: 433px;
+  border-radius: 12px;
+}
+.container2CorpoParte7_legenda3Parte1 {
+  height: 19px;
+  width: 240px;
+  left: 1165px;
+  top: 572px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  margin-top: 11px;
+  margin-bottom: 6px;
+  color: #ec8006;
+}
+.container2CorpoParte7_legenda3Parte2 {
+  height: 84px;
+  width: 240px;
+  left: 1165px;
+  top: 597px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: -0.045em;
+  text-align: left;
+  color: #2f3134;
+  margin-bottom: -20px;
+}
+.container2CorpoParte7_legenda3Parte3_1 {
+  height: 21px;
+  width: 217px;
+  left: 1166px;
+  top: 660px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: -0.048em;
+  text-align: left;
+  color: #2f3134;
+}
+.container2CorpoParte7_legenda3Parte3_2 {
+  height: 21px;
+  width: 217px;
+  left: 1166px;
+  top: 690px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: -0.048em;
+  text-align: left;
+  color: #2f3134;
+  margin-top: 9px;
+}
+.container7_direita {
+  /*background-color: lightseagreen;*/
+  margin-left: 275px;
+  margin-top: -320px;
+  width: 240px;
+  height: 340px;
+  margin-left: 305px;
+}
+.container7_direita img {
+  height: 128px;
+  width: 240px;
+  left: 1165px;
+  top: 761px;
+  border-radius: 12px;
+  margin-top: 40px;
+}
+.container2CorpoParte7_legenda1Parte1 {
+  height: 19px;
+  width: 240px;
+  left: 1165px;
+  top: 900px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  margin-top: 11px;
+  margin-bottom: 6px;
+  color: #ec8006;
+}
+.container2CorpoParte7_legenda1Parte2 {
+  height: 26px;
+  width: 240px;
+  left: 1165px;
+  top: 925px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: -0.045em;
+  text-align: left;
+  margin-bottom: 8px;
+  color: #2f3134;
+}
+.container2CorpoParte7_legenda1Parte3 {
+  height: 21px;
+  width: 217px;
+  left: 1166px;
+  top: 959px;
+  border-radius: nullpx;
+  font-family: Encode Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: -0.048em;
+  text-align: left;
+  color: #2f3134;
+}
